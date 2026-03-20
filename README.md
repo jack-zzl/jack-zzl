@@ -1,4 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Jack
+
+## 🎓 Certifications
+
+[![DataCamp Data Engineer](https://img.shields.io/badge/DataCamp-Data%20Engineer-03EF62?logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DEA0010754000476)
+
+<!-- 
+<a href="https://www.datacamp.com/certificate/DEA0010754000476">
+  <img src="YOUR_BADGE_IMAGE_URL" alt="DataCamp Data Engineer" width="120"/>
+</a>
+
+-->
 
 <!--
 **jack-zzl/jack-zzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
